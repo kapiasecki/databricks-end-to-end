@@ -23,5 +23,6 @@ Key Skills Gained
 - Cloud Data Engineering with AWS
 
 Summary
+
 This project provides hands-on experience in building scalable data pipelines and analytics solutions using Databricks and Spark. 
 It demonstrates the ability to process large datasets, implement modern Lakehouse architectures, and deliver business insights through an end-to-end e-commerce analytics project.
