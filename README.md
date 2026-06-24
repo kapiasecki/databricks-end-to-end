@@ -1,7 +1,9 @@
 Big Data Analytics with Databricks and Spark
+
 This project demonstrates practical experience in big data processing, distributed computing, and data engineering using Databricks, Apache Spark, Delta Lake, and AWS.
 
 Project Overview
+
 In this project, I learned how to:
 - work with Spark DataFrames and Spark SQL
 - understand distributed computing and Spark architecture
